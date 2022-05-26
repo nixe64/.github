@@ -2,19 +2,28 @@
 <details>
 <summary>🇩🇪</summary>
     🇩🇪 deutsch<br/>
-    <a href="Copyright.en.md">🇬🇧 english</a>
+    <a href="LICENSE.en.md">🇬🇧 english</a>
 </details>
 </div>
 
-### ReadMe - Vorlage
+### Community Health
+
 Copyright © 2022, Andreas Nixdorf.
 
-Dieses Vorlage ist freie Software. Sie können sie unter den Bedingungen der [Allgemeinen Öffentlichen
-GNU-Lizenz (GPL)](License.md), wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Option) jeder späteren Version.
+Dieses Programm ist freie Software. Sie können es unter den
+Bedingungen der [Allgemeinen Öffentlichen GNU-Lizenz \(GPL\)](docs/License.gpl.md), wie von der Free
+Software Foundation veröffentlicht, weitergeben und/oder
+modifizieren, entweder gemäß Version 3 der Lizenz oder (nach
+Ihrer Option) jeder späteren Version.
 
-Die Veröffentlichung dieser Vorlage erfolgt in der Hoffnung, daß es Ihnen von Nutzen sein wird, aber **ohne irgeneine**, sogar ohne die implizite Garantie der **Marktreife** oder der **Verwendbarkeit für einen bestimmten Zweck**. Details finden Sie in der GPL.
+Die Veröffentlichung dieses Programms erfolgt in der Hoffnung,
+daß es Ihnen von Nutzen sein wird, aber **ohne irgendeine Garantie**,
+sogar ohne die implizite Garantie der **Marktreife** oder der
+**Verwendbarkeit für einen bestimmen Zweck**. Details finden Sie in
+der GPL.
 
-Sie sollten ein Exemplar der GPL zusammen mit diesem Programm erhalten haben. Falls nicht, siehe <http://www.gnu.org/licenses/>.
+Sie sollten ein Exemplar der Allgemeinen Öffentlichen GNU-Lizenz zusammen
+mit diesem Programm erhalten haben. Falls nicht, siehe [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
 
 <br/>
 
@@ -39,4 +48,4 @@ Dieses Projekt basiert auf einem großartigem Open-Source-Projekt, das mir bei d
 
 [Die beste ReadMe-Vorlage](https://github.com/othneildrew/Best-README-Template)<br/>
 Copyright © 2021 Othneil Drew<br/>
-Herausgegeben mit [MIT](License.mit.md) Urheberrecht.
+Veröffentlicht mit Urheberrecht gemäß [MIT - Lizenz](License.mit.md).

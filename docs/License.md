@@ -1,5 +1,11 @@
 <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
-<p align="right"><a href="License.en.md"><sub>English Version</sub></a></p>
+<div align="right">
+<details>
+<summary>🇩🇪</summary>
+    🇩🇪 deutsch<br/>
+    <a href="License.en.md">🇬🇧 english</a>
+</details>
+</div>
 
 ### GNU General Public License
 
@@ -18,7 +24,6 @@ nicht erlaubt.
 **Diese Übersetzung ist kein rechtskräftiger Ersatz für die
 [englischsprachige Originalversion](License.en.md)!**
 
-<br/>
 <br/>
 
 ### Vorwort
@@ -104,7 +109,6 @@ zu machen.
 
 Es folgen die präzisen Bedingungen für das Kopieren, Verbreiten
 und Modifizieren.
-<br/>
 <br>
 
 ### LIZENZBEDINGUNGEN
@@ -709,7 +713,6 @@ Haftungsübernahme bei.
 
 ### ENDE DER LIZENZBEDINGUNGEN
 
-<br/>
 <br/>
 
 ### Wie Sie diese Bedingungen auf Ihre eigenen, neuen Programme anwenden können

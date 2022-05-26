@@ -1,5 +1,11 @@
   <a href="https://opensource.org/licenses/GPL-3.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
-<p align="right"><a href="License.md"><sub>Deutsche Version</sub></a></p>
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="License.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
 
 ### GNU General Public License
 
@@ -616,7 +622,6 @@ liability accompanies a copy of the Program in return for a fee.
 ### END OF TERMS AND CONDITIONS
 
 <br/>
-<br/>
 
 ### How to Apply These Terms to Your New Programs
 
@@ -647,7 +652,7 @@ General Public License for more details.
 
 You should have received a copy of the GNU General Public
 License along with this program.  If not, see
-<http://www.gnu.org/licenses/>.
+http://www.gnu.org/licenses/.
 </pre>
 
 Also add information on how to contact you by electronic and paper

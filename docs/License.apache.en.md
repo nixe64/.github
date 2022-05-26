@@ -1,5 +1,11 @@
 <a href="https://opensource.org/licenses/Apache-2.0/"><img alt="OSI Approved License Logo" hspace="20" src="images/osi-approved-license.png" align="right" width="150" /></a>
-<p align="right"><sub><a href="License.apache.md">Deutche Version</a></sub></p>
+<div align="right">
+<details>
+<summary>🇬🇧</summary>
+    <a href="License.apache.md">🇩🇪 deutsch</a><br/>
+    🇬🇧 english
+</details>
+</div>
 
 ### Apache License
 
@@ -7,7 +13,6 @@ Version 2.0, January 2004
 
 [http://www.apache.org/licenses/](http://www.apache.org/licenses/)
 
-<br/>
 <br/>
 
 ### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
@@ -74,7 +79,6 @@ While redistributing the Work or Derivative Works thereof, You may choose to off
 
 ### END OF TERMS AND CONDITIONS
 
-<br/>
 <br/>
 
 ### APPENDIX: How to apply the Apache License to your work
