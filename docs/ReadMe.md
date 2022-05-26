@@ -6,16 +6,6 @@
 </details>
 </div>
 
-<!--
-<p>
-<img src="https://img.shields.io/github/license/nixe64/.github?label=Lizenz&style=plastic" alt="Lizenz" />
-<img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
-<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Mitwirkende&style=plastic" alt="Mitwirkende" />
-<img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
-<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Probleme&style=plastic" alt="Probleme" />
- <p>
--->
-
 <br />
 
 ## Community Health
@@ -81,8 +71,7 @@ Eine vollständige Liste der vorgeschlagenen Funktionen (und bekannten Probleme)
 Mitwirkungen machen die Open-Source-Community zu einem so großartigen Ort zum Lernen, Inspirieren und Schaffen. Alle Beiträge, die du leistet, werden **sehr geschätzt**.
 
 Bei Interesse, lies bitte [Mitwirkung an meinen Projekten](contributing/Contribute.md) und den [Verhaltenskodex für Mitwirkende](contributing/CodeOfConduct.md).
- -->
-
+ 
 ### Lizenz
 
 Lizensiert gemäß der [Allgemeinen Öffentlichen GNU-Lizenz v3.0](../LICENSE.md).
