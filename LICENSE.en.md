@@ -48,8 +48,7 @@ liability accompanies a copy of the Program in return for a fee.
 
 ### Copyrights
 
-This project is based on a great open source project that was a great help to implement
-my ideas.
+This project is based on a great open source project that helped me a lot in realizing my ideas.
 
 [Best-README-Template](https://github.com/othneildrew/Best-README-Template)<br/>
 Copyright © 2021 Othneil Drew<br/>
