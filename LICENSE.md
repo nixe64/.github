@@ -28,7 +28,7 @@ mit diesem Programm erhalten haben. Falls nicht, siehe [http://www.gnu.org/licen
 <br/>
 
 ### Die wichtigsten Lizenzbestimmungen in aller Kürze
-
+ 
 #### Gewährleistungsausschluß
 
 Es besteht keinerlei Gewährleistung für diese Vorlage, soweit dies gesetzlich zulässig ist. Sofern nicht anderweitig schriftlich bestätigt, stellen die Urheberrechtsinhaber und/oder Dritte die Vorlage so zur Verfügung, **„wie es ist“**, ohne irgendeine Gewährleistung, weder ausdrücklich noch implizit, einschließlich – aber nicht begrenzt auf – die implizite Gewährleistung der Marktreife oder der Verwendbarkeit für einen bestimmten Zweck. Das volle Risiko bezüglich Qualität und Leistungsfähigkeit des Programms liegt bei Ihnen. Sollte sich das Programm als fehlerhaft herausstellen, liegen die Kosten für notwendigen Service, Reparatur oder Korrektur bei Ihnen.
