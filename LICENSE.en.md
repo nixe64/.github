@@ -6,7 +6,7 @@
 </details>
 </div>
 
-### Community Health Template
+### Community Health
 
 Copyright © 2022, Andreas Nixdorf.
 
