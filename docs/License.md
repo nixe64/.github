@@ -304,7 +304,6 @@ gesonderten und unabhängigen Werken, die nicht ihrer Natur nach
 Erweiterungen des betroffenen Werks sind und die nicht mit ihm in
 einer Weise kombiniert sind, um ein größeres Programm zu bilden,
 in oder auf einem
-<!-- volume of a -->
 Speicher- oder Verbreitungsmedium wird als „Aggregat“
 bezeichnet, wenn die Zusammenstellung und das sich für
 sie ergebende Urheberrecht nicht dazu verwendet werden, den
