@@ -6,17 +6,6 @@
 </details>
 </div>
 
-<!-- 
-<p>
-<img src="https://img.shields.io/github/license/nixe64/.github?label=License&style=plastic" alt="License" />
-<img src="https://img.shields.io/github/v/release/nixe64/.github?label=Version&style=plastic" alt="Version" />
-<img src="https://img.shields.io/github/contributors-anon/nixe64/.github?label=Contributors&style=plastic" alt="Contributors" />
-<img src="https://img.shields.io/github/forks/nixe64/.github?label=Forks&style=plastic" alt="Forks" />
-<img src="https://img.shields.io/github/issues-closed/nixe64/.github?label=Issues&style=plastic" alt="Issues" />
- <p>
--->
-
-
 <br />
 
 ## Community Health
@@ -80,7 +69,6 @@ For a complete list of proposed features (and known issues), see [open issues](h
 Contributions are what make the open source community such a great place to learn, inspire, and create. Any contributions you make are **much appreciated**.
 
 If interested, please read [Contributing to my projects](contributing/Contribute.en.md) and the [Contributor Covenant Code of Conduct](contributing/CodeOfConduct.en.md).
--->
 
 ## License
 
