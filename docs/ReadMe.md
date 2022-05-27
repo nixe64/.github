@@ -1,3 +1,11 @@
+[![License](https://img.shields.io/badge/Lizenz-GPLv3-green?style=plastic)](License.gpl.md)
+[![Version](https://img.shields.io/github/v/release/nixe64/Home-Assistant-Reloaded?label=Version&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/releases)
+[![Contributors](https://img.shields.io/github/contributors-anon/nixe64/Home-Assistant-Reloaded?label=Mitwirkende&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/nixe64/Home-Assistant-Reloaded?label=Forks&style=plastic)](https://github.com/nixe64/Home-Assistant-Reloaded/network/members)
+[![Feature Requests](https://img.shields.io/github/issues/nixe64/Home-Assistant-Reloaded/feature-request.svg?style=plastic&label=Verbesserungsvorschläge)](https://github.com/nixe64/Home-Assistant-Reloaded/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+[![Bugs](https://img.shields.io/github/issues/nixe64/Home-Assistant-Reloaded/bug.svg?style=plastic&label=Fehlerberichte)](https://github.com/nixe64/Home-Assistant-Reloaded/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
+
+
 <div align="right">
 <details>
 <summary>🇩🇪</summary>
